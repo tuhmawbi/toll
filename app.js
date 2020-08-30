@@ -9,7 +9,7 @@ const app = express();
 
 // Db config
 // const db = "mongodb://localhost/iot";
-const db = 'mongodb+srv://<user_id>:<password>@cluster0-hiqkj.mongodb.net/iot1' // Put your passsword in place of password and user_id at place of id
+const db = 'mongodb+srv://User2:123456TOll!@cluster0.xvtgn.mongodb.net/iot1?retryWrites=true&w=majority' // Put your passsword in place of password and user_id at place of id
 
 
 // Passport Config
